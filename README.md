@@ -54,11 +54,9 @@ This project uses supervised machine learning algorithms to analyze patient heal
 
 ##  Machine Learning Algorithms
 
-- Logistic Regression
 - K-Nearest Neighbors (KNN)
 - Decision Tree
 - Random Forest
-- Support Vector Machine (SVM)
 
 ---
 
@@ -70,7 +68,8 @@ This project uses supervised machine learning algorithms to analyze patient heal
 4. Feature Selection & Scaling
 5. Model Training
 6. Model Evaluation
-7. Prediction
+7. Hyperparameter Tuning
+8. ROC-AUC Score
 
 ---
 
@@ -80,4 +79,4 @@ This project uses supervised machine learning algorithms to analyze patient heal
 - Precision
 - Recall
 - F1-Score
-- Confusion Matrix
+- Auc_Roc Score
